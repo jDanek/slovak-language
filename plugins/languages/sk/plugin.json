@@ -1,0 +1,15 @@
+{
+    "$schema": "../../../system/schema/language.json",
+    "name": "Slovenčina",
+    "description": "Slovenská lokalizácia systému.",
+    "authors": [
+        {"url": "https://jdanek.eu/", "name": "Jirka Daněk"}
+    ],
+    "version": "1.0",
+    "environment": {
+        "system": "^8.0"
+    },
+    "iso_code": "sk",
+    "decimal_point": ".",
+    "thousands_separator": " "
+}
