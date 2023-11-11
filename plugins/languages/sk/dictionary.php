@@ -154,7 +154,7 @@ return [
     'mod.reg.confirm.extratext' => 'Na zadanú e-mailovú adresu vám bude zaslaná potvrdzujúca správa.',
     'mod.reg.confirm.sent' => 'Na e-mailovú adresu <em>%email%</em> bola odoslaná potvrdzujúca správa. Ak chcete aktivovať svoje konto, kliknite na odkaz uvedený v správe. Platnosť odkazu je 1 hodina.',
     'mod.reg.confirm.subject' => 'Potvrdenie registrácie na %domain%',
-    'mod.reg.confirm.text' => 'Na doméne %domain% bola (pravdepodobne vami) zadaná požiadavka na registráciu používateľského účtu "%username%". Ak súhlasíte s registráciou, kliknite na odkaz nižšie:
+    'mod.reg.confirm.text' => 'Na doméne %domain% bola (pravdepodobne vami) zadaná požiadavka na registráciu používateľského konta "%username%". Ak súhlasíte s registráciou, kliknite na odkaz nižšie:
 
 %confirm_link%
 
@@ -162,7 +162,7 @@ Ak sa vám nepodarí kliknúť na tento odkaz, skopírujte ho do adresného riad
 
 ----------------
 Požiadavka bola odoslaná %date% z počítača %ip%.',
-    'mod.reg.confirm.limit' => 'Je povolených maximálne 5 neúspešných pokusov o aktiváciu účtu za %limit% minút.',
+    'mod.reg.confirm.limit' => 'Je povolených maximálne 5 neúspešných pokusov o aktiváciu konta za %limit% minút.',
     'mod.reg.confirm.badcode' => 'Neplatný formát potvrdzovacieho kódu!',
     'mod.reg.confirm.notfound' => 'Platnosť potvrdzujúceho odkazu vypršala alebo je nesprávny.',
     'mod.reg.confirm.emailornametaken' => 'Používateľské meno alebo e-mailová adresa zvolená počas registrácie bola zaregistrovaná iným používateľom. Opätovne sa zaregistrujte.',
