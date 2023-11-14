@@ -24,7 +24,7 @@ return [
     'admin.index.messages' => 'Systémové správy',
     'admin.index.unstablewarn' => 'Toto je nestabilná %stability% verzia len na testovacie účely',
     'admin.index.debugwarn' => 'Vývojový režim je aktívny',
-    'admin.index.htaccess_check_failure' => 'Pozor! Váš webový server zrejme nepodporuje súbory .htaccess. To predstavuje možné bezpečnostné riziko.<br><br>Viz <a href="%link%">%link%</a>',
+    'admin.index.htaccess_check_failure' => 'Pozor! Váš webový server zrejme nepodporuje súbory .htaccess. To predstavuje možné bezpečnostné riziko.<br><br>Viac na <a href="%link%">%link%</a>',
     'admin.index.version.latest' => 'Používate najnovšiu verziu systému.',
     'admin.index.version.old' => 'K dispozícii je nová verzia <strong>%version%</strong>. Odporúča sa <a href="%link%" target="_blank">aktualizovať</a>.',
     'admin.index.recent_log_errors' => 'Od poslednej kontroly boli v systémovom denníku nájdené nové chyby: %count%',
